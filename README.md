@@ -11,7 +11,7 @@ Java 17 RTE should be installed.
 The root project folder contains the file "githubcli.jar". 
 For running the application download the file and execute the command line command:
 
-`<path_to_java17> -jar <path_to_jar> --help_
+`<path_to_java17> -jar <path_to_jar> --help
 `
 
 For more comfortable using the part '<path_to_java17> -jar <path_to_jar>" can 
